@@ -1,8 +1,6 @@
 # Moep Button
 
-Moep Button [Click here to visit https://mistywood.github.io/button/](https://mistywood.github.io/button/)
-
-[![Build Status](https://travis-ci.org/MistyWood/Moep-button.svg?branch=master)](https://travis-ci.org/MistyWood/Moep-button)
+Moep Button [Click here to visit https://mistywood.github.io/](https://mistywood.github.io/)
 
 Related Links:
 
@@ -64,9 +62,7 @@ This project is modified based on the [aqua button](https://github.com/zyzsdy/aq
 
 # Moep Button
 
-Moep Button [Click here to visit https://mistywood.github.io/button/](https://mistywood.github.io/button/)
-
-[![Build Status](https://travis-ci.org/MistyWood/Moep-button.svg?branch=master)](https://travis-ci.org/MistyWood/Moep-button)
+Moep Button [Click here to visit https://mistywood.github.io/](https://mistywood.github.io/)
 
 Related Links:
 
