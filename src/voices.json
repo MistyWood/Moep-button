@@ -1,0 +1,104 @@
+{
+    "voices": [
+        {
+            "categoryName": "saying",
+            "categoryDescription": {
+                "zh-CN": "名言",
+                "ja-JP": "名言"
+            },
+            "voiceList": [
+                {
+                    "name": "a-001",
+                    "path": "a-001.mp3",
+                    "description": {
+                        "zh-CN": "我系香蕉",
+                        "ja-JP": "ウォシーシィァンジャオ"
+                    }
+                },
+                {
+                    "name": "a-002",
+                    "path": "a-002.mp3",
+                    "description": {
+                        "zh-CN": "谁是和声部啊！",
+                        "ja-JP": "誰がハモリ部や"
+                    }
+                },
+                {
+                    "name": "a-003",
+                    "path": "a-003.mp3",
+                    "description": {
+                        "zh-CN": "谁是和声部啊！（极道弹舌）",
+                        "ja-JP": "誰がハモリ部や"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "dialogue",
+            "categoryDescription": {
+                "zh-CN": "台词",
+                "ja-JP": "台词"
+            },
+            "voiceList": [
+                {
+                    "name": "b-001",
+                    "path": "b-001.mp3",
+                    "description": {
+                        "zh-CN": "在你面前任性也可以吗？",
+                        "ja-JP": "在你面前任性也可以吗？"
+                    }
+                },
+                {
+                    "name": "b-002",
+                    "path": "b-002.mp3",
+                    "description": {
+                        "zh-CN": "想知道更多关于我的事？",
+                        "ja-JP": "俺のこと、もっと知りたいって"
+                    }
+                },
+                {
+                    "name": "b-003",
+                    "path": "b-003.mp3",
+                    "description": {
+                        "zh-CN": "不给糖就捣蛋！",
+                        "ja-JP": "トリックオアトリート"
+                    }
+                },
+                {
+                    "name": "b-004",
+                    "path": "b-004.mp3",
+                    "description": {
+                        "zh-CN": "喜欢我吗？（萌葵）",
+                        "ja-JP": "わたしのこと好き（harmoe）"
+                    }
+                },
+                {
+                    "name": "b-005",
+                    "path": "b-005.mp3",
+                    "description": {
+                        "zh-CN": "笨蛋！",
+                        "ja-JP": "ばかやろう！"
+                    }
+                },
+                {
+                    "name": "b-006",
+                    "path": "b-006.mp3",
+                    "description": {
+                        "zh-CN": "明天工作加油吧，我也会加油工作的",
+                        "ja-JP": "明天工作加油吧，我也会加油工作的"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "sing",
+            "categoryDescription": {
+                "zh-CN": "唱歌",
+                "ja-JP": "うた"
+            },
+            "voiceList": [
+               
+            ]
+        }
+    ]
+}
